@@ -1,0 +1,5 @@
+void imputtext()
+{
+  readbuttons();
+  
+}
